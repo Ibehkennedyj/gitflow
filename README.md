@@ -10,6 +10,7 @@ This project assumes you are setup to run Node JS applications.
 
 - node v0.8.x or v0.10.x
 - npm v1.1.x or v1.2.x
+- feat example
 
 ```
 $ npm install
